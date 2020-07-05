@@ -11,6 +11,7 @@
 - 💬 Ask me about anything you may want to know. I'm happy to help whenever I can
 - 📫 How to reach me: 
   - Twitter: [@dchif](https://twitter.com/dchif)
+  - Website: https://danielchif.dev
   - Email: [nadchif@gmail.com](mailto:nadchif@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also a dentist :tooth:

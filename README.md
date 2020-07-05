@@ -6,7 +6,7 @@
   - PWA Challenges
   - [Image Accessibility Extension](https://github.com/michaeldera/image-accessibility-extension) for Google Chrome and MS Edge
 - 🌱 I’m currently learning [Android Development](https://developers.google.com/certification/associate-android-developer)
-- 👯 I’m looking to collaborate on my project [Adobe Brackets Jasmine Reporter Extension](https://github.com/nadchif/brackets-jasmine-reporter)
+- 👯 I’m looking to collaborate on my project [Adobe Brackets Jasmine Reporter Extension](https://github.com/nadchif/brackets-jasmine-reporter/blob/master/README.md)
 - 🤔 I’m looking for help with [Unit tests and Instrumented tests for Android](https://github.com/nadchif/headset-control-plus)
 - 💬 Ask me about anything you may want to know. I'm happy to help whenever I can
 - 📫 How to reach me: 

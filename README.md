@@ -12,5 +12,5 @@
   - Website: https://danielchif.dev
   - Email: [nadchif@gmail.com](mailto:nadchif@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have 29 teeth :tooth:
+- ⚡ Fun fact: I have ~~32~~  29 teeth :tooth:
 

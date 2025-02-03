@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-#### I'm Chif, a web developer
+#### I'm Chif, a software engineer
 
 - 📫 How to reach me: 
   - X: [@dchif](https://x.com/dchif)
   - Website: https://danielchif.dev
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have ~~32~~  29 teeth :tooth:
-
